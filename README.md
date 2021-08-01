@@ -1,5 +1,5 @@
 # Pen-Snake-Game
-A game I made for a placement role that I got rejected for, the game is similar to game but your are making a long snake out of rigid sticks, like pens.
+A game I made for a placement role that I got rejected for, the game is similar to Snake, but your are making a long snake out of rigid sticks, like pens.
 
 Click on the Wiki and Issues to find out more.
 
